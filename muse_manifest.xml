@@ -1,0 +1,257 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="instagram.com" resolutions="1x" timestamp="1495595014778">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="399242328" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>search:phone>profile:index"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>search:phone>profile:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>search:phone>profile:index"/>
+    <file name="museconfig.js" crc="4152223963" ref="phone>index:phone>search:phone>profile:index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>search:phone>profile:index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>search:phone>profile:index"/>
+  </folder>
+  <folder name="images">
+    <file name="icon3.png" crc="231250497" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u138-4.png" crc="3869068807" ref="phone>index"/>
+    <file name="untitled-2.png" crc="93304443" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="m1.png" crc="75974423" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-1449113537440-9eb221b15323-crop-u224.jpg" crc="426612120" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-22.png" crc="364314157" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-1.png" crc="54738350" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-1452806723698-a8daf14aa079-crop-u240.jpg" crc="441700260" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-1465070845512-2b2dbdc6df66-crop-u342.jpg" crc="3970015199" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-3.png" crc="3988462291" seo="true" ref="phone>index:phone>search:phone>profile">
+      <caption webpage="index" alt=""/>
+      <caption webpage="search" alt=""/>
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="love.png" crc="93305240" seo="true" ref="phone>index:phone>search:phone>profile">
+      <caption webpage="index" alt=""/>
+      <caption webpage="search" alt=""/>
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="addition-symbol2.png" crc="267242436" seo="true" ref="phone>index:phone>search:phone>profile">
+      <caption webpage="index" alt=""/>
+      <caption webpage="search" alt=""/>
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="orgl.png" crc="62506941" seo="true" ref="phone>index:phone>search:phone>profile">
+      <caption webpage="index" alt=""/>
+      <caption webpage="search" alt=""/>
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="home.png" crc="326803883" seo="true" ref="phone>index:phone>search:phone>profile">
+      <caption webpage="index" alt=""/>
+      <caption webpage="search" alt=""/>
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="untitled-4.png" crc="451703435" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="6db12016-a997-4aa0-96bd-73295b47f83a_5-crop-u661.jpg" crc="6800372" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="91jutauskamh2yjb1c4a_img_9284-crop-u678.jpg" crc="64538001" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="photo-1477672042633-c610057baed5-crop-u688.jpg" crc="3815277280" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="852110518_172897-crop-u705.jpg" crc="325958954" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="fb_img_1486484444179-crop-u722.jpg" crc="10420849" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="cam-dicecca-116639-crop-u724.jpg" crc="3827397763" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="645b5042-53b8-410f-8ebd-788865650e80_5-crop-u726.jpg" crc="45340117" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="fb_img_1486484444179-crop-u783.jpg" crc="10420849" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="cam-dicecca-116639-crop-u785.jpg" crc="3827397763" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="645b5042-53b8-410f-8ebd-788865650e80_5-crop-u787.jpg" crc="45340117" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="91jutauskamh2yjb1c4a_img_9284-crop-u1270.jpg" crc="64538001" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="photo-1477672042633-c610057baed5-crop-u1272.jpg" crc="3815277280" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="852110518_172897-crop-u1274.jpg" crc="325958954" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="cam-dicecca-116639-crop-u1291.jpg" crc="3827397763" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="645b5042-53b8-410f-8ebd-788865650e80_5-crop-u1293.jpg" crc="45340117" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="fb_img_1486484444179-crop-u1305.jpg" crc="133252785" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="cam-dicecca-116639-crop-u1312.jpg" crc="3827397763" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="645b5042-53b8-410f-8ebd-788865650e80_5-crop-u1314.jpg" crc="45340117" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="fb_img_1486484444179-crop-u1316.jpg" crc="133252785" seo="true" ref="phone>search">
+      <caption webpage="search" alt=""/>
+    </file>
+    <file name="org-hitam-2-crop-u922.png" crc="83965504" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="91jutauskamh2yjb1c4a_img_9284-crop-u1037.jpg" crc="64538001" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="photo-1477672042633-c610057baed5-crop-u1044.jpg" crc="3815277280" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="645b5042-53b8-410f-8ebd-788865650e80_5-crop-u1051.jpg" crc="3935046318" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="a.png" crc="3905615227" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="m.png" crc="43856450" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0562-crop-u1058.jpg" crc="4156270811" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0596-crop-u1075.jpg" crc="150975110" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0275-crop-u1092.jpg" crc="3955745029" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0562-crop-u1109.jpg" crc="4156270811" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0596-crop-u1111.jpg" crc="150975110" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0275-crop-u1113.jpg" crc="3955745029" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0562-crop-u1130.jpg" crc="4156270811" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0596-crop-u1132.jpg" crc="150975110" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0275-crop-u1134.jpg" crc="3955745029" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="91jutauskamh2yjb1c4a_img_9284-crop-u1151.jpg" crc="64538001" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="photo-1477672042633-c610057baed5-crop-u1153.jpg" crc="3815277280" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="645b5042-53b8-410f-8ebd-788865650e80_5-crop-u1155.jpg" crc="3935046318" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0562-crop-u1172.jpg" crc="4156270811" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0596-crop-u1174.jpg" crc="150975110" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0275-crop-u1176.jpg" crc="3955745029" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="91jutauskamh2yjb1c4a_img_9284-crop-u1193.jpg" crc="64538001" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="photo-1477672042633-c610057baed5-crop-u1195.jpg" crc="3815277280" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="645b5042-53b8-410f-8ebd-788865650e80_5-crop-u1197.jpg" crc="3935046318" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0562-crop-u1214.jpg" crc="4156270811" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0596-crop-u1216.jpg" crc="150975110" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0275-crop-u1218.jpg" crc="3955745029" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="91jutauskamh2yjb1c4a_img_9284-crop-u1220.jpg" crc="64538001" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="photo-1477672042633-c610057baed5-crop-u1222.jpg" crc="3815277280" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="645b5042-53b8-410f-8ebd-788865650e80_5-crop-u1224.jpg" crc="3935046318" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0562-crop-u1256.jpg" crc="4156270811" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="dsc_0596-crop-u1258.jpg" crc="150975110" seo="true" ref="phone>profile">
+      <caption webpage="profile" alt=""/>
+    </file>
+    <file name="u1417-4.png" crc="3869068807" ref="index"/>
+    <file name="photo-1449113537440-9eb221b15323-crop-u1434.jpg" crc="426612120" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-1452806723698-a8daf14aa079-crop-u1442.jpg" crc="441700260" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-1465070845512-2b2dbdc6df66-crop-u1466.jpg" crc="3970015199" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3559151" ref="phone>search:phone>profile:phone>index"/>
+      <file name="search.css" crc="4260535351" ref="phone>search"/>
+      <file name="profile.css" crc="3815208181" ref="phone>profile"/>
+      <file name="index.css" crc="3810469582" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="183796729" seo="true" mt="1493783437979" redirect="true"/>
+    <file name="search.html" crc="4144142330" seo="true" mt="1493751506365" redirect="true"/>
+    <file name="profile.html" crc="3935199579" seo="true" mt="1493783812664" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4250204860" seo="true" mt="1495594905163" redirect="true"/>
+</manifest>

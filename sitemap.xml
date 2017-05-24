@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://instagram.com/index.html</loc>
+    <lastmod>2017-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://instagram.com/phone/index.html"/>
+    <image:image>
+      <image:loc>http://instagram.com/images/icon3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://instagram.com/images/untitled-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://instagram.com/images/m1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://instagram.com/images/untitled-22.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://instagram.com/images/untitled-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://instagram.com/images/photo-1449113537440-9eb221b15323-crop-u1434.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://instagram.com/images/photo-1452806723698-a8daf14aa079-crop-u1442.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://instagram.com/images/photo-1465070845512-2b2dbdc6df66-crop-u1466.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://instagram.com/phone/search.html</loc>
+    <lastmod>2017-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://instagram.com/phone/profile.html</loc>
+    <lastmod>2017-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
